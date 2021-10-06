@@ -1,2 +1,2 @@
 # Ecommerce-REST-API-Js
-I have created REST API with NodeJS and ExpressJS and Mongo DB
+I have created REST API using ExpressJS and Mongo DB 
